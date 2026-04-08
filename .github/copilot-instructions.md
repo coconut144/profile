@@ -1,0 +1,10 @@
+- [x] Clarify Project Requirements
+  - สร้างเว็บ Portfolio สำหรับ Resume ด้วย Next.js ภาษาไทย
+- [x] Scaffold the Project
+  - สร้างโปรเจกต์ Next.js ด้วย TypeScript, Tailwind CSS, ESLint, app directory, src directory, npm, import alias @/*
+- [ ] Customize the Project
+- [ ] Install Required Extensions
+- [ ] Compile the Project
+- [ ] Create and Run Task
+- [ ] Launch the Project
+- [ ] Ensure Documentation is Complete
